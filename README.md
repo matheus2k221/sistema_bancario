@@ -119,9 +119,9 @@ python classe_base.py
 
 ---
 
-## 👤 Autor
+## 👤 Autor Matheus Amorim
 
-Feito com ❤️ para fins educacionais.
+Feito com python para fins educacionais.
 
 ---
 
